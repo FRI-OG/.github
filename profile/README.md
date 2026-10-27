@@ -1,3 +1,7 @@
+# things
+aps dn submitanje nalog pa to:
+https://aps1-posrednik.aps1-posrednik.workers.dev/ 
+
 # todo
   - sprotna lestvica (na spletni strani)
   - official lestvica (posododljena + na spletni strani)
