@@ -1,12 +1,5 @@
-## Hi there 👋
-
-
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+# todo
+  - sprotna lestvica (na spletni strani)
+  - official lestvica (posododljena + na spletni strani)
+  - get tests skripta
+  - custom runner (1. single test, 2. testira vse submissione za nalogo) + consistency (resource limit, average..)
