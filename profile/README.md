@@ -1,6 +1,6 @@
 # things
 aps dn submitanje nalog pa to:
-https://aps1-posrednik.aps1-posrednik.workers.dev/ 
+https://aps1.fri-og.workers.dev/
 
 # todo
   - sprotna lestvica (na spletni strani)
