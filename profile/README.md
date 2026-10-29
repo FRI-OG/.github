@@ -5,5 +5,5 @@ https://aps1.fri-og.workers.dev/
 # todo
   - ~~sprotna lestvica (na spletni strani)~~
   - official lestvica (posodobljena + ~~na spletni strani~~)
-  - get tests skripta
+  - get tests skripta + (mogoce submit skritpa, k uporablja API strani ne pa gh (apa tud gh idk))
   - custom runner (1. single test, 2. testira vse submissione za nalogo) + consistency (resource limit, average..)
